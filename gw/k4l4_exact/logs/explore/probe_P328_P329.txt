@@ -1,0 +1,4 @@
+work/P328.out:c conflicts:               3945622     10827.16    per second
+work/P328.out:c total process time since initialization:       364.50    seconds
+work/P329.out:c conflicts:               3718951     10204.84    per second
+work/P329.out:c total process time since initialization:       364.51    seconds

@@ -1,0 +1,22 @@
+RUN_START cubes=10 jobs=4 cpu_limit=240 proof=False base=work/P329.cnf pid=16343 utc=2026-11-12T10:23:18Z
+START b4-6 nlits=2 lits=1980,-1977 utc=2026-11-12T10:23:18Z
+START b11-15 nlits=2 lits=1989,-1984 utc=2026-11-12T10:23:18Z
+START b16-20 nlits=2 lits=1994,-1989 utc=2026-11-12T10:23:18Z
+START b7-10 nlits=2 lits=1984,-1980 utc=2026-11-12T10:23:18Z
+FINISH b4-6 status=TIMEOUT cpu=240.4 wall=268.3 proof_bytes=0 proof_sha256=- cnf_sha256=45cd559c91b745930976f7a63fac5b1d375fa13b7dca2dec1073da5defc5cbcd checker=none info=- utc=2026-11-12T10:27:47Z
+START b21-30 nlits=2 lits=2004,-1994 utc=2026-11-12T10:27:47Z
+FINISH b16-20 status=TIMEOUT cpu=240.4 wall=268.3 proof_bytes=0 proof_sha256=- cnf_sha256=6493b627777149524f6673804ff2001d4aa22cf17cd8aa87e30d2d0007ca4e49 checker=none info=- utc=2026-11-12T10:27:47Z
+START b31-45 nlits=2 lits=2019,-2004 utc=2026-11-12T10:27:47Z
+FINISH b11-15 status=TIMEOUT cpu=240.4 wall=268.4 proof_bytes=0 proof_sha256=- cnf_sha256=10e751b9ab2f76e594ff7c689c92b1e109d1e41e233c8363f9c82b1aa64586ab checker=none info=- utc=2026-11-12T10:27:47Z
+START b46-70 nlits=2 lits=2044,-2019 utc=2026-11-12T10:27:47Z
+FINISH b7-10 status=TIMEOUT cpu=240.4 wall=268.7 proof_bytes=0 proof_sha256=- cnf_sha256=8f94cd2fd0677c6584e7a0295bad2602cc029cc70a6be88980f05ec66d68d863 checker=none info=- utc=2026-11-12T10:27:47Z
+START b71-110 nlits=2 lits=2084,-2044 utc=2026-11-12T10:27:47Z
+FINISH b31-45 status=TIMEOUT cpu=240.4 wall=277.0 proof_bytes=0 proof_sha256=- cnf_sha256=b3d58badadb9001568cd4ff85c3d54d467453890e16fbf0893375330ee960501 checker=none info=- utc=2026-11-12T10:32:24Z
+START b111-182 nlits=2 lits=2156,-2084 utc=2026-11-12T10:32:24Z
+FINISH b21-30 status=TIMEOUT cpu=240.4 wall=277.2 proof_bytes=0 proof_sha256=- cnf_sha256=831a818a6fec1adcf515a8a040f80c493868535cb92ac6be6f33dca5213d088a checker=none info=- utc=2026-11-12T10:32:24Z
+START b183-329 nlits=2 lits=2303,-2156 utc=2026-11-12T10:32:24Z
+FINISH b46-70 status=TIMEOUT cpu=240.3 wall=277.3 proof_bytes=0 proof_sha256=- cnf_sha256=2c399b54dbd5fb9fb76a95bf5d8aab225fb54a5a68b72064a91b0f75fed76c2e checker=none info=- utc=2026-11-12T10:32:24Z
+FINISH b71-110 status=TIMEOUT cpu=240.3 wall=277.2 proof_bytes=0 proof_sha256=- cnf_sha256=d4e29b459bfd82027f719f35b1776c7b7f11da4180fd63d02b9fe504e4b80e8e checker=none info=- utc=2026-11-12T10:32:24Z
+FINISH b183-329 status=UNSAT_NOPROOF cpu=0.3 wall=0.3 proof_bytes=0 proof_sha256=- cnf_sha256=0fa591410170c1f11232222b4fe202994cbeceb142feb98ed4d435a3e04247bb checker=none info=- utc=2026-11-12T10:32:24Z
+FINISH b111-182 status=TIMEOUT cpu=240.4 wall=280.5 proof_bytes=0 proof_sha256=- cnf_sha256=f8fb0cc6af2d9052c58b0a933dba406bc10888efd5bbfedc2e42a5822838576f checker=none info=- utc=2026-11-12T10:37:04Z
+RUN_END left=0 sat=False utc=2026-11-12T10:37:04Z

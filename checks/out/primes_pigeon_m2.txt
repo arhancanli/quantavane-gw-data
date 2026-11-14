@@ -1,0 +1,10 @@
+m=2 l=3 k=4 mode=2 cutoff=65 primes: 5 7
+count=2 largest=7
+m=2 l=4 k=4 mode=2 cutoff=442 primes: 5 7 11 17
+count=4 largest=17
+m=2 l=5 k=4 mode=2 cutoff=2917 primes: 7 11 13 17 19 23 29 31 37 47 73
+count=11 largest=73
+m=2 l=6 k=4 mode=2 cutoff=18226 primes: 7 11 13 17 19 23 29 31 37 41 43 47 59 73 113 139 193
+count=17 largest=193
+m=2 l=7 k=4 mode=2 cutoff=107585 primes: 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 89 97 107 113 137 139 149 157 163 167 173 179 181 191 193 199 229 239 241 257 349 373 431 577 617
+count=43 largest=617

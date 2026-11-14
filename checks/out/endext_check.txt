@@ -1,0 +1,4 @@
+k=6 l=3 n=86 colours=6 rainbow=0 mono=0 GOOD
+k=6 l=3 n=87 colours=7 rainbow=0 mono=0 GOOD
+k=6 l=3 n=86 colours=7 rainbow=0 mono=0 GOOD
+k=6 l=3 n=87 colours=8 rainbow=0 mono=0 GOOD

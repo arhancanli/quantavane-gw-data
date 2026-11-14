@@ -1,0 +1,46 @@
+# Thm split m=2 p=17 l=4 z=0110 k=3 l=4 n=52 colours=4 rainbow=0 mono=0 GOOD
+# Thm split m=2 p=17 l=4 z=0112 k=3 l=4 n=52 colours=5 rainbow=0 mono=0 GOOD
+# Thm split m=2 p=73 l=5 z=01001 k=3 l=5 n=293 colours=4 rainbow=0 mono=0 GOOD
+# Thm split m=2 p=73 l=5 z=01002 k=3 l=5 n=293 colours=5 rainbow=0 mono=0 GOOD
+# Thm split m=2 p=193 l=6 z=010010 k=3 l=6 n=966 colours=4 rainbow=0 mono=0 GOOD
+# Thm split m=2 p=193 l=6 z=001002 k=3 l=6 n=966 colours=5 rainbow=0 mono=0 GOOD
+# Thm split m=2 p=617 l=7 z=0100100 k=3 l=7 n=3703 colours=4 rainbow=0 mono=0 GOOD
+# Thm split m=2 p=617 l=7 z=0010020 k=3 l=7 n=3703 colours=5 rainbow=0 mono=0 GOOD
+# Thm split m=2 p=881 l=8 z=01121223 k=3 l=8 n=6168 colours=6 rainbow=0 mono=0 GOOD
+# Thm plain m=2 p=17 l=4 k=3 l=4 n=51 colours=3 rainbow=0 mono=0 GOOD
+# Thm plain m=2 p=73 l=5 k=3 l=5 n=292 colours=3 rainbow=0 mono=0 GOOD
+# Thm plain m=3 p=109 l=4 k=4 l=4 n=327 colours=4 rainbow=0 mono=0 GOOD
+# Thm plain m=3 p=307 l=5 k=4 l=5 n=1228 colours=4 rainbow=0 mono=0 GOOD
+# Thm plain m=4 p=353 l=4 k=5 l=4 n=1059 colours=5 rainbow=0 mono=0 GOOD
+# Thm plain m=5 p=751 l=4 k=6 l=4 n=2253 colours=6 rainbow=0 mono=0 GOOD
+# Thm plain m=3 p=19 l=3 k=4 l=3 n=38 colours=4 rainbow=0 mono=0 GOOD
+# Thm plain m=4 p=17 l=3 k=5 l=3 n=34 colours=5 rainbow=0 mono=0 GOOD
+# Thm split m=3 p=19 l=3 z=011 k=4 l=3 n=39 colours=5 rainbow=0 mono=0 GOOD
+# Thm split m=3 p=19 l=3 z=012 k=4 l=3 n=39 colours=6 rainbow=0 mono=0 GOOD
+# Thm split m=3 p=109 l=4 z=0110 k=4 l=4 n=328 colours=5 rainbow=0 mono=0 GOOD
+# Thm split m=3 p=109 l=4 z=0120 k=4 l=4 n=328 colours=6 rainbow=0 mono=0 GOOD
+# Thm split m=3 p=307 l=5 z=01213 k=4 l=5 n=1229 colours=7 rainbow=0 mono=0 GOOD
+# Thm split m=3 p=1777 l=6 z=012234 k=4 l=6 n=8886 colours=8 rainbow=0 mono=0 GOOD
+# Thm split m=4 p=17 l=3 z=011 k=5 l=3 n=35 colours=6 rainbow=0 mono=0 GOOD
+# Thm split m=4 p=17 l=3 z=012 k=5 l=3 n=35 colours=7 rainbow=0 mono=0 GOOD
+# Thm split m=4 p=353 l=4 z=0110 k=5 l=4 n=1060 colours=6 rainbow=0 mono=0 GOOD
+# Thm split m=4 p=353 l=4 z=0112 k=5 l=4 n=1060 colours=7 rainbow=0 mono=0 GOOD
+# Thm split m=4 p=353 l=4 z=0123 k=5 l=4 n=1060 colours=8 rainbow=0 mono=0 GOOD
+# Thm split m=4 p=4937 l=5 z=01231 k=5 l=5 n=19749 colours=8 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=3 k=5 p=19 l=3 z=011 k=5 l=3 n=39 colours=5 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=3 k=5 p=19 l=3 z=012 k=5 l=3 n=39 colours=6 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=3 k=5 p=109 l=4 z=0112 k=5 l=4 n=328 colours=6 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=3 k=5 p=109 l=4 z=0123 k=5 l=4 n=328 colours=7 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=3 k=5 p=307 l=5 z=01231 k=5 l=5 n=1229 colours=7 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=3 k=5 p=307 l=5 z=01223 k=5 l=5 n=1229 colours=7 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=4 k=6 p=37 l=3 z=011 k=6 l=3 n=75 colours=6 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=4 k=6 p=37 l=3 z=012 k=6 l=3 n=75 colours=7 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=4 k=6 p=353 l=4 z=0123 k=6 l=4 n=1060 colours=8 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=4 k=6 p=4937 l=5 z=01234 k=6 l=5 n=19749 colours=9 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=5 k=7 p=31 l=3 z=012 k=7 l=3 n=63 colours=8 rainbow=0 mono=0 GOOD
+# Thm pigeonhole m=5 k=7 p=751 l=4 z=0123 k=7 l=4 n=2254 colours=9 rainbow=0 mono=0 GOOD
+# period-28 colouring on [1,56] k=4 l=3 n=56 colours=4 rainbow=0 mono=0 GOOD
+# aligned colouring of [1,328] k=4 l=4 n=328 colours=4 rainbow=0 mono=0 GOOD
+# red: period-28 colouring extended to [1,57] periodically k=4 l=3 n=57 colours=4 rainbow=0 mono=1 BAD
+# red: p = 41 (1 mod 8 but has runs of 4) k=3 l=4 n=124 colours=4 rainbow=0 mono=240 BAD
+# red: p = 4957 (next prime 1 mod 4 after 4937) k=5 l=5 n=19829 colours=8 rainbow=9912 mono=118944 BAD

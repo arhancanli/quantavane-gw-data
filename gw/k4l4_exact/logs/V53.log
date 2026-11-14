@@ -1,0 +1,4 @@
+RUN_START cubes=1 jobs=1 cpu_limit=0 proof=True base=V53.cnf pid=46562 utc=2026-11-12T11:11:05Z
+START all nlits=0 lits=- utc=2026-11-12T11:11:05Z
+FINISH all status=UNSAT_CHECKED cpu=0.0 wall=0.0 proof_bytes=188113 proof_sha256=08ce16b5f50f75142201ef8bd149151754f1e047025f3f59646007e2aaee5c49 cnf_sha256=bc50484fad5312cb3156a51befd823fec54f2dd9f8ee801d5248f356e96cfa2e checker=s_VERIFIED_UNSAT info=c_formula:_18691_clauses_|_c_checked_1428_additions_(0_RAT),_1735_deletions_|_c_skipped_0_satisfied_hint_clauses utc=2026-11-12T11:11:05Z
+RUN_END left=0 sat=False utc=2026-11-12T11:11:05Z

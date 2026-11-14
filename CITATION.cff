@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these programs, formulas, proofs or colourings, please cite them as below."
+type: dataset
+title: "Programs, formulas, proofs and colourings for \"Power-residue colourings and exact Gallai-van der Waerden numbers\""
+abstract: "Encoders, CNF formulas with LRAT proofs and their SHA-256 digests, a strict LRAT checker, exhaustive and window searches, prime scans and every colouring behind the determination of the Gallai-van der Waerden numbers GW(r;3,4), GW(r;3,5) and GW(r;4,3) and the lower bound GW(4;4,4) >= 329, with the case files and logs of the 15,914 refutations of the diagonal case."
+authors:
+  - family-names: Canli
+    given-names: Arhan
+    affiliation: Quantavane
+    email: arhan@quantavane.com
+license: CC-BY-4.0
+url: "https://quantavane.com"
+repository-code: "https://github.com/arhancanli/quantavane-gw-data"
+date-released: "2026-11-14"
+keywords:
+  - Gallai-van der Waerden numbers
+  - arithmetic progressions
+  - rainbow progressions
+  - SAT certificates
+  - LRAT proofs

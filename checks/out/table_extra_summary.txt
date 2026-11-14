@@ -1,0 +1,7 @@
+# plain (A fails) k=7 l=3 m=6 p=127 r=7 bound 255 k=7 l=3 n=254 colours=7 rainbow=0 mono=0 GOOD
+# split k=7 l=3 m=6 p=127 s=2 r=8 z=001 bound 256 k=7 l=3 n=255 colours=8 rainbow=0 mono=0 GOOD
+# split k=7 l=3 m=6 p=127 s=3 r=9 z=012 bound 256 k=7 l=3 n=255 colours=9 rainbow=0 mono=0 GOOD
+# aligned k=7 l=4 m=6 p=3457 r=7 bound 10373 k=7 l=4 n=10372 colours=7 rainbow=0 mono=0 GOOD
+# split k=7 l=4 m=6 p=3457 s=2 r=8 z=0001 bound 10373 k=7 l=4 n=10372 colours=8 rainbow=0 mono=0 GOOD
+# split k=7 l=4 m=6 p=3457 s=3 r=9 z=0012 bound 10373 k=7 l=4 n=10372 colours=9 rainbow=0 mono=0 GOOD
+# split k=7 l=4 m=6 p=3457 s=4 r=10 z=0123 bound 10373 k=7 l=4 n=10372 colours=10 rainbow=0 mono=0 GOOD

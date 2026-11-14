@@ -1,0 +1,8 @@
+k=3 l=4 n=52 colours=3 rainbow=0 mono=0 GOOD
+k=3 l=5 n=293 colours=3 rainbow=0 mono=72 BAD
+k=3 l=6 n=966 colours=3 rainbow=0 mono=0 GOOD
+k=3 l=7 n=3703 colours=3 rainbow=0 mono=0 GOOD
+k=3 l=8 n=6168 colours=3 rainbow=0 mono=0 GOOD
+k=3 l=9 n=19017 colours=3 rainbow=0 mono=0 GOOD
+k=3 l=6 n=566 colours=3 rainbow=0 mono=0 GOOD
+k=3 l=5 n=69 colours=3 rainbow=0 mono=0 GOOD

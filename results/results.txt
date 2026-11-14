@@ -1,0 +1,38 @@
+run_checks.sh 2026-11-14T08:40:53Z; Python 3.9.6; Apple clang version 21.0.0 (clang-2100.3.34.2)
+=== 1. digests
+gw/certificates.tar.xz: 96 files match its SHA256SUMS, 0 do not
+gw/SHA256SUMS is the list inside the archive
+gw/k4/SHA256SUMS_k4l3: 12 files match (formulas, proofs and gzip files); 6 listed files are not in this repository
+gw/k5/SHA256SUMS_k5: 9 files match (formulas, proofs and gzip files); 2 listed files are not in this repository
+gw/l5cert/SHA256SUMS: 7 files match; 12 listed files are not in this repository
+29c61bd98844f5cd3e7a3217fe28dae7cb5b90640956dbeaeb54945966b11325  gw/l5cert/A3_293.cnf (uncompressed): begins with 29c61bd98844f5cd as expected
+c84186bf1825de177dd1aff7bb64224dcead8de0a5138b55ea23be18d0e17b9f  gw/l5cert/A5_294.cnf (uncompressed): begins with c84186bf1825de17 as expected
+829addc0c4a9b441419eb9d4a71f4d5d307c493af8a8f730e82c356fbde112bb  gw/l5cert/P294.cnf (uncompressed): begins with 829addc0c4a9b441 as expected
+c500486451ae4500da4862cec76e70f7d620c4cdd5fe8d7fb1370d032c9d37ad  gw/k4l4_exact/R1.txt
+ede14deb29401c247c999b98f7db6acfcf21611b90223aad8aa5f1004e186edc  gw/k4l4_exact/R2.txt
+=== 2. strict LRAT checker
+gw/certificates.tar.xz: 48 proofs VERIFIED UNSAT, 0 not
+gw/k4 A4_57: c checked 249369 additions (0 RAT), 219243 deletions s VERIFIED UNSAT 
+gw/k4 P10: c checked 6314 additions (0 RAT), 8848 deletions s VERIFIED UNSAT 
+gw/k4 U56: c checked 250118 additions (0 RAT), 216984 deletions s VERIFIED UNSAT 
+gw/k5 V2_9: c checked 23 additions (0 RAT), 18 deletions s VERIFIED UNSAT 
+gw/k5 V3_27: c checked 2140 additions (0 RAT), 1429 deletions s VERIFIED UNSAT 
+=== 3. witnesses
+gw/k4/witnesses_k4l3.txt (k = 4, l = 3): 9 GOOD, 0 BAD; longest: n=56 colours=4 counts=[16, 16, 12, 12] rainbow4=0 mono3=0 GOOD
+gw/k4/extremal56_rgs.txt (k = 4, l = 3): 28 GOOD, 0 BAD; longest: n=56 colours=4 counts=[16, 16, 12, 12] rainbow4=0 mono3=0 GOOD
+gw/k5/witnesses_k5l3.txt (k = 5, l = 3): 16 GOOD, 0 BAD; longest: n=85 colours=6 counts=[20, 15, 14, 19, 16, 1] rainbow5=0 mono3=0 GOOD
+gw/colouring_1_328.txt (k = 4, l = 4): 1 GOOD, 0 BAD; longest: n=328 colours=4 counts=[110, 108, 108, 2] rainbow4=0 mono4=0 GOOD
+gw/witnesses_52.txt (l = 4): (52, [0, 1, 2], [3, 24, 25], 0, 0)
+gw/witnesses_52.txt (l = 4): (52, [0, 1, 2, 3], [1, 2, 24, 25], 0, 0)
+gw/witnesses_52.txt (l = 4): (52, [0, 1, 2, 3, 4], [1, 24, 24, 2, 1], 0, 0)
+gw/l5cert/g3_292.col (l = 5): (292, [0, 1, 2], [144, 144, 4], 0, 0)
+gw/l5cert/g5_293.col (l = 5): (293, [0, 1, 2, 3], [4, 144, 144, 1], 0, 0)
+=== 4. the paper's colouring checker
+checks/out/residue_colourings.txt: 46 lines, same as checks/out/residue_check.txt
+checks/out/aligned_colourings.txt: 8 lines, same as checks/out/aligned_check.txt
+checks/out/aligned_m_colourings.txt: 15 lines, same as checks/out/aligned_m_check.txt
+checks/out/table_colourings.txt: 59 lines, same as checks/out/table_check.txt
+checks/out/table_extra_colourings.txt: 7 lines, same as checks/out/table_extra_check.txt
+checks/out/table_extra2_colourings.txt: 5 lines, same as checks/out/table_extra2_check.txt
+checks/out/z4zq_colourings.txt: 14 lines, same as checks/out/z4zq_check.txt
+ALL PASS

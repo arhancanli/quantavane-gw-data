@@ -1,0 +1,7 @@
+k=7 l=3 n=254 colours=7 rainbow=0 mono=0 GOOD
+k=7 l=3 n=255 colours=8 rainbow=0 mono=0 GOOD
+k=7 l=3 n=255 colours=9 rainbow=0 mono=0 GOOD
+k=7 l=4 n=10372 colours=7 rainbow=0 mono=0 GOOD
+k=7 l=4 n=10372 colours=8 rainbow=0 mono=0 GOOD
+k=7 l=4 n=10372 colours=9 rainbow=0 mono=0 GOOD
+k=7 l=4 n=10372 colours=10 rainbow=0 mono=0 GOOD

@@ -1,0 +1,15 @@
+# aligned m=2 l=4 p=17 N=52 all of 1..l-1 are m-th powers: False k=3 l=4 n=52 colours=3 rainbow=0 mono=0 GOOD
+# aligned m=2 l=5 p=73 N=293 all of 1..l-1 are m-th powers: True k=3 l=5 n=293 colours=3 rainbow=0 mono=72 BAD
+# aligned m=2 l=6 p=193 N=966 all of 1..l-1 are m-th powers: False k=3 l=6 n=966 colours=3 rainbow=0 mono=0 GOOD
+# aligned m=2 l=7 p=617 N=3703 all of 1..l-1 are m-th powers: False k=3 l=7 n=3703 colours=3 rainbow=0 mono=0 GOOD
+# aligned m=2 l=8 p=881 N=6168 all of 1..l-1 are m-th powers: False k=3 l=8 n=6168 colours=3 rainbow=0 mono=0 GOOD
+# aligned m=2 l=9 p=2377 N=19017 all of 1..l-1 are m-th powers: False k=3 l=9 n=19017 colours=3 rainbow=0 mono=0 GOOD
+# aligned m=3 l=3 p=19 N=39 all of 1..l-1 are m-th powers: False k=4 l=3 n=39 colours=4 rainbow=0 mono=0 GOOD
+# aligned m=3 l=4 p=109 N=328 all of 1..l-1 are m-th powers: False k=4 l=4 n=328 colours=4 rainbow=0 mono=0 GOOD
+# aligned m=3 l=5 p=307 N=1229 all of 1..l-1 are m-th powers: True k=4 l=5 n=1229 colours=4 rainbow=0 mono=204 BAD
+# aligned m=3 l=6 p=1777 N=8886 all of 1..l-1 are m-th powers: False k=4 l=6 n=8886 colours=4 rainbow=0 mono=0 GOOD
+# aligned m=4 l=3 p=17 N=35 all of 1..l-1 are m-th powers: False k=5 l=3 n=35 colours=5 rainbow=0 mono=0 GOOD
+# aligned m=4 l=4 p=353 N=1060 all of 1..l-1 are m-th powers: False k=5 l=4 n=1060 colours=5 rainbow=0 mono=0 GOOD
+# aligned m=4 l=5 p=4937 N=19749 all of 1..l-1 are m-th powers: False k=5 l=5 n=19749 colours=5 rainbow=0 mono=0 GOOD
+# aligned m=5 l=3 p=31 N=63 all of 1..l-1 are m-th powers: False k=6 l=3 n=63 colours=6 rainbow=0 mono=0 GOOD
+# aligned m=5 l=4 p=751 N=2254 all of 1..l-1 are m-th powers: False k=6 l=4 n=2254 colours=6 rainbow=0 mono=0 GOOD

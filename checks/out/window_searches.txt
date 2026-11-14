@@ -1,0 +1,13 @@
+# window searches (12 Nov 2026)
+## window.py (this paper; exactly R-2 colours)
+k=3 l=4 R=6 odd L in [3,101]: windows found at L = none
+k=3 l=5 R=6 odd L in [3,293]: windows found at L = none
+## positive controls (R = 5)
+k=3 l=4 R=5 odd L in [3,101]: windows found at L = [51]
+k=3 l=5 R=5 odd L in [3,293]: windows found at L = [45, 51, 219]
+## window_second.c (at least R-2 colours)
+l=4 R=6 L in [3,101]: windows found 0
+l=5 R=6 L in [3,293]: windows found 0
+  L=51 colours=3 inner=00101110011101002001011100111010020010111001110100
+l=4 R=5 L in [3,101]: windows found 1
+l=5 R=5 L in [3,293]: windows found 3

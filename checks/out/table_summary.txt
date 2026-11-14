@@ -1,0 +1,59 @@
+# aligned k=3 l=4 m=2 p=17 r=3 bound 53 k=3 l=4 n=52 colours=3 rainbow=0 mono=0 GOOD
+# split k=3 l=4 m=2 p=17 s=2 r=4 z=0001 bound 53 k=3 l=4 n=52 colours=4 rainbow=0 mono=0 GOOD
+# split k=3 l=4 m=2 p=17 s=3 r=5 z=0112 bound 53 k=3 l=4 n=52 colours=5 rainbow=0 mono=0 GOOD
+# aligned k=3 l=6 m=2 p=193 r=3 bound 967 k=3 l=6 n=966 colours=3 rainbow=0 mono=0 GOOD
+# split k=3 l=6 m=2 p=193 s=2 r=4 z=000001 bound 967 k=3 l=6 n=966 colours=4 rainbow=0 mono=0 GOOD
+# split k=3 l=6 m=2 p=193 s=3 r=5 z=001002 bound 967 k=3 l=6 n=966 colours=5 rainbow=0 mono=0 GOOD
+# aligned k=3 l=7 m=2 p=617 r=3 bound 3704 k=3 l=7 n=3703 colours=3 rainbow=0 mono=0 GOOD
+# split k=3 l=7 m=2 p=617 s=2 r=4 z=0000001 bound 3704 k=3 l=7 n=3703 colours=4 rainbow=0 mono=0 GOOD
+# split k=3 l=7 m=2 p=617 s=3 r=5 z=0010020 bound 3704 k=3 l=7 n=3703 colours=5 rainbow=0 mono=0 GOOD
+# aligned k=3 l=8 m=2 p=881 r=3 bound 6169 k=3 l=8 n=6168 colours=3 rainbow=0 mono=0 GOOD
+# split k=3 l=8 m=2 p=881 s=2 r=4 z=00000001 bound 6169 k=3 l=8 n=6168 colours=4 rainbow=0 mono=0 GOOD
+# split k=3 l=8 m=2 p=881 s=3 r=5 z=00010112 bound 6169 k=3 l=8 n=6168 colours=5 rainbow=0 mono=0 GOOD
+# split k=3 l=8 m=2 p=881 s=4 r=6 z=01121223 bound 6169 k=3 l=8 n=6168 colours=6 rainbow=0 mono=0 GOOD
+# aligned k=3 l=9 m=2 p=2377 r=3 bound 19018 k=3 l=9 n=19017 colours=3 rainbow=0 mono=0 GOOD
+# split k=3 l=9 m=2 p=2377 s=2 r=4 z=000000001 bound 19018 k=3 l=9 n=19017 colours=4 rainbow=0 mono=0 GOOD
+# split k=3 l=9 m=2 p=2377 s=3 r=5 z=000100002 bound 19018 k=3 l=9 n=19017 colours=5 rainbow=0 mono=0 GOOD
+# aligned k=3 l=5 m=2 p=73 r=3 bound 294 k=3 l=5 n=293 colours=3 rainbow=0 mono=72 BAD
+# split k=3 l=5 m=2 p=73 s=2 r=4 z=00001 bound 294 k=3 l=5 n=293 colours=4 rainbow=0 mono=0 GOOD
+# split k=3 l=5 m=2 p=73 s=3 r=5 z=01002 bound 294 k=3 l=5 n=293 colours=5 rainbow=0 mono=0 GOOD
+# aligned k=4 l=3 m=3 p=19 r=4 bound 40 k=4 l=3 n=39 colours=4 rainbow=0 mono=0 GOOD
+# split k=4 l=3 m=3 p=19 s=2 r=5 z=001 bound 40 k=4 l=3 n=39 colours=5 rainbow=0 mono=0 GOOD
+# split k=4 l=3 m=3 p=19 s=3 r=6 z=012 bound 40 k=4 l=3 n=39 colours=6 rainbow=0 mono=0 GOOD
+# aligned k=4 l=4 m=3 p=109 r=4 bound 329 k=4 l=4 n=328 colours=4 rainbow=0 mono=0 GOOD
+# split k=4 l=4 m=3 p=109 s=2 r=5 z=0001 bound 329 k=4 l=4 n=328 colours=5 rainbow=0 mono=0 GOOD
+# split k=4 l=4 m=3 p=109 s=3 r=6 z=0012 bound 329 k=4 l=4 n=328 colours=6 rainbow=0 mono=0 GOOD
+# aligned k=4 l=5 m=3 p=307 r=4 bound 1230 k=4 l=5 n=1229 colours=4 rainbow=0 mono=204 BAD
+# split k=4 l=5 m=3 p=307 s=2 r=5 z=00001 bound 1230 k=4 l=5 n=1229 colours=5 rainbow=0 mono=0 GOOD
+# split k=4 l=5 m=3 p=307 s=3 r=6 z=00012 bound 1230 k=4 l=5 n=1229 colours=6 rainbow=0 mono=0 GOOD
+# split k=4 l=5 m=3 p=307 s=4 r=7 z=01123 bound 1230 k=4 l=5 n=1229 colours=7 rainbow=0 mono=0 GOOD
+# aligned k=4 l=6 m=3 p=1777 r=4 bound 8887 k=4 l=6 n=8886 colours=4 rainbow=0 mono=0 GOOD
+# split k=4 l=6 m=3 p=1777 s=2 r=5 z=000001 bound 8887 k=4 l=6 n=8886 colours=5 rainbow=0 mono=0 GOOD
+# split k=4 l=6 m=3 p=1777 s=3 r=6 z=000012 bound 8887 k=4 l=6 n=8886 colours=6 rainbow=0 mono=0 GOOD
+# split k=4 l=6 m=3 p=1777 s=4 r=7 z=001123 bound 8887 k=4 l=6 n=8886 colours=7 rainbow=0 mono=0 GOOD
+# split k=4 l=6 m=3 p=1777 s=5 r=8 z=012234 bound 8887 k=4 l=6 n=8886 colours=8 rainbow=0 mono=0 GOOD
+# aligned k=5 l=4 m=4 p=353 r=5 bound 1061 k=5 l=4 n=1060 colours=5 rainbow=0 mono=0 GOOD
+# split k=5 l=4 m=4 p=353 s=2 r=6 z=0001 bound 1061 k=5 l=4 n=1060 colours=6 rainbow=0 mono=0 GOOD
+# split k=5 l=4 m=4 p=353 s=3 r=7 z=0012 bound 1061 k=5 l=4 n=1060 colours=7 rainbow=0 mono=0 GOOD
+# split k=5 l=4 m=4 p=353 s=4 r=8 z=0123 bound 1061 k=5 l=4 n=1060 colours=8 rainbow=0 mono=0 GOOD
+# aligned k=5 l=5 m=4 p=4937 r=5 bound 19750 k=5 l=5 n=19749 colours=5 rainbow=0 mono=0 GOOD
+# split k=5 l=5 m=4 p=4937 s=2 r=6 z=00001 bound 19750 k=5 l=5 n=19749 colours=6 rainbow=0 mono=0 GOOD
+# split k=5 l=5 m=4 p=4937 s=3 r=7 z=00012 bound 19750 k=5 l=5 n=19749 colours=7 rainbow=0 mono=0 GOOD
+# split k=5 l=5 m=4 p=4937 s=4 r=8 z=00123 bound 19750 k=5 l=5 n=19749 colours=8 rainbow=0 mono=0 GOOD
+# aligned k=6 l=4 m=5 p=751 r=6 bound 2255 k=6 l=4 n=2254 colours=6 rainbow=0 mono=0 GOOD
+# split k=6 l=4 m=5 p=751 s=2 r=7 z=0001 bound 2255 k=6 l=4 n=2254 colours=7 rainbow=0 mono=0 GOOD
+# split k=6 l=4 m=5 p=751 s=3 r=8 z=0012 bound 2255 k=6 l=4 n=2254 colours=8 rainbow=0 mono=0 GOOD
+# split k=6 l=4 m=5 p=751 s=4 r=9 z=0123 bound 2255 k=6 l=4 n=2254 colours=9 rainbow=0 mono=0 GOOD
+# split k=5 l=3 m=3 p=19 s=2 r=5 z=001 bound 40 k=5 l=3 n=39 colours=5 rainbow=0 mono=0 GOOD
+# split k=5 l=3 m=3 p=19 s=3 r=6 z=012 bound 40 k=5 l=3 n=39 colours=6 rainbow=0 mono=0 GOOD
+# split k=6 l=3 m=4 p=37 s=2 r=6 z=001 bound 76 k=6 l=3 n=75 colours=6 rainbow=0 mono=0 GOOD
+# split k=6 l=3 m=4 p=37 s=3 r=7 z=012 bound 76 k=6 l=3 n=75 colours=7 rainbow=0 mono=0 GOOD
+# split k=6 l=5 m=4 p=4937 s=2 r=6 z=00001 bound 19750 k=6 l=5 n=19749 colours=6 rainbow=0 mono=0 GOOD
+# split k=6 l=5 m=4 p=4937 s=3 r=7 z=00012 bound 19750 k=6 l=5 n=19749 colours=7 rainbow=0 mono=0 GOOD
+# split k=6 l=5 m=4 p=4937 s=4 r=8 z=00123 bound 19750 k=6 l=5 n=19749 colours=8 rainbow=0 mono=0 GOOD
+# split k=6 l=5 m=4 p=4937 s=5 r=9 z=01234 bound 19750 k=6 l=5 n=19749 colours=9 rainbow=0 mono=0 GOOD
+# split k=7 l=3 m=5 p=31 s=2 r=7 z=001 bound 64 k=7 l=3 n=63 colours=7 rainbow=0 mono=0 GOOD
+# split k=7 l=3 m=5 p=31 s=3 r=8 z=012 bound 64 k=7 l=3 n=63 colours=8 rainbow=0 mono=0 GOOD
+# split k=7 l=4 m=5 p=751 s=2 r=7 z=0001 bound 2255 k=7 l=4 n=2254 colours=7 rainbow=0 mono=0 GOOD
+# split k=7 l=4 m=5 p=751 s=3 r=8 z=0012 bound 2255 k=7 l=4 n=2254 colours=8 rainbow=0 mono=0 GOOD
+# split k=7 l=4 m=5 p=751 s=4 r=9 z=0123 bound 2255 k=7 l=4 n=2254 colours=9 rainbow=0 mono=0 GOOD

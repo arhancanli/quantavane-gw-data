@@ -1,0 +1,11 @@
+RUN_START cubes=8 jobs=2 cpu_limit=300 proof=False base=work/P329.cnf pid=33756 utc=2026-11-12T11:21:13Z
+START all_12212000 nlits=8 lits=646,651,655,658,663,665,669,673 utc=2026-11-12T11:21:13Z
+START all_12100101 nlits=8 lits=646,651,654,657,661,666,669,674 utc=2026-11-12T11:21:13Z
+FINISH all_12100101 status=TIMEOUT cpu=300.7 wall=505.8 proof_bytes=0 proof_sha256=- cnf_sha256=929db140c3b5dbf2f9b488726df3350530e91906ebf57e86c3a5927d6b8579ab checker=none info=- utc=2026-11-12T11:29:39Z
+START all_03033221 nlits=8 lits=645,652,653,660,664,667,671,674 utc=2026-11-12T11:29:39Z
+FINISH all_12212000 status=TIMEOUT cpu=300.7 wall=506.5 proof_bytes=0 proof_sha256=- cnf_sha256=a8435a28b1447920638778363b0d26f450e1e2cdcfc813492aebbc69e19f1aa5 checker=none info=- utc=2026-11-12T11:29:40Z
+START all_21322021 nlits=8 lits=647,650,656,659,663,665,671,674 utc=2026-11-12T11:29:40Z
+FINISH all_03033221 status=TIMEOUT cpu=300.6 wall=427.5 proof_bytes=0 proof_sha256=- cnf_sha256=20a9bf010c2ab7d9ee81479ab47eb508b3d481c7f7de1a30622b0c07dc0cc6f4 checker=none info=- utc=2026-11-12T11:36:47Z
+START all_02323303 nlits=8 lits=645,651,656,659,664,668,669,676 utc=2026-11-12T11:36:47Z
+FINISH all_21322021 status=TIMEOUT cpu=300.6 wall=427.7 proof_bytes=0 proof_sha256=- cnf_sha256=2213f2a53778af19089961b81b562b12c0f9bf2cd61570fd8e0676887471687c checker=none info=- utc=2026-11-12T11:36:48Z
+START all_03303200 nlits=8 lits=645,652,656,657,664,667,669,673 utc=2026-11-12T11:36:48Z

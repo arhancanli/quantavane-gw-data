@@ -1,0 +1,4 @@
+RUN_START cubes=1 jobs=1 cpu_limit=300 proof=False base=work/S2_dense30.cnf pid=75911 utc=2026-11-12T10:49:07Z
+START all nlits=0 lits=- utc=2026-11-12T10:49:07Z
+FINISH all status=TIMEOUT cpu=300.4 wall=349.0 proof_bytes=0 proof_sha256=- cnf_sha256=9751d2bab2d6fad4d965494ddf4dc0776ec6242bb92155a8f64b02e5403a22a5 checker=none info=- utc=2026-11-12T10:54:56Z
+RUN_END left=0 sat=False utc=2026-11-12T10:54:56Z

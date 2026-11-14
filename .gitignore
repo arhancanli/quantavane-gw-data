@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+work/
+# compiled programs
+/gw/lratcheck
+/gw/k5/check_k5
+/checks/gwcheck
+/checks/primes
+/checks/window_second
+# local agent tooling state (never part of the repository)
+.claude-flow/
+.swarm/
+ruvector.db
+agentdb*

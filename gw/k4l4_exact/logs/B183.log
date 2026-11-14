@@ -1,0 +1,4 @@
+RUN_START cubes=1 jobs=1 cpu_limit=0 proof=True base=P329.cnf pid=48056 utc=2026-11-12T11:11:12Z
+START b183-329 nlits=2 lits=2303,-2156 utc=2026-11-12T11:11:12Z
+FINISH b183-329 status=UNSAT_CHECKED cpu=0.3 wall=0.4 proof_bytes=3894622 proof_sha256=6a9e4c593629a18ea76fdb8403f15505408b2280fb1d72ea882ca929a83346ae cnf_sha256=0fa591410170c1f11232222b4fe202994cbeceb142feb98ed4d435a3e04247bb checker=s_VERIFIED_UNSAT info=c_formula:_506785_clauses_|_c_checked_8060_additions_(0_RAT),_261113_deletions_|_c_skipped_0_satisfied_hint_clauses utc=2026-11-12T11:11:13Z
+RUN_END left=0 sat=False utc=2026-11-12T11:11:13Z

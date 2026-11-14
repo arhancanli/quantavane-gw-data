@@ -1,0 +1,5 @@
+# aligned k=6 l=5 m=5 p=6011 r=6 bound 24046 k=6 l=5 n=24045 colours=6 rainbow=0 mono=0 GOOD
+# split k=6 l=5 m=5 p=6011 s=2 r=7 z=00001 bound 24046 k=6 l=5 n=24045 colours=7 rainbow=0 mono=0 GOOD
+# split k=6 l=5 m=5 p=6011 s=3 r=8 z=00012 bound 24046 k=6 l=5 n=24045 colours=8 rainbow=0 mono=0 GOOD
+# split k=6 l=5 m=5 p=6011 s=4 r=9 z=00123 bound 24046 k=6 l=5 n=24045 colours=9 rainbow=0 mono=0 GOOD
+# split k=6 l=5 m=5 p=6011 s=5 r=10 z=01234 bound 24046 k=6 l=5 n=24045 colours=10 rainbow=0 mono=0 GOOD

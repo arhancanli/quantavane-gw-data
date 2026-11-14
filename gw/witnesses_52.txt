@@ -1,0 +1,5 @@
+Good exact r-colourings of [1,52] with no rainbow 3-term and no monochromatic 4-term progression
+(one colour per character, positions 1..52; found by gw_sat.py, checked by check_rm.py)
+r = 3: 0221211122111212202212111221112122022121112211121222
+r = 4: 0332322233222323313323222332223233133232223322232333
+r = 5: 0112122211222121131121222112221211311212221122212114

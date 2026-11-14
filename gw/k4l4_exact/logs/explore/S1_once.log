@@ -1,0 +1,4 @@
+RUN_START cubes=1 jobs=1 cpu_limit=300 proof=False base=work/S1_once.cnf pid=75910 utc=2026-11-12T10:49:07Z
+START all nlits=0 lits=- utc=2026-11-12T10:49:07Z
+FINISH all status=TIMEOUT cpu=300.4 wall=349.0 proof_bytes=0 proof_sha256=- cnf_sha256=d649285c00bf189135ae1fb5ac571ef070adb5f1c0ba30f7fcfe8dc680a3d312 checker=none info=- utc=2026-11-12T10:54:56Z
+RUN_END left=0 sat=False utc=2026-11-12T10:54:56Z

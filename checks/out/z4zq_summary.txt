@@ -1,0 +1,14 @@
+# q=3 k=4 l=3 n=24 colours=4 rainbow=3 mono=8 BAD
+# q=5 k=4 l=3 n=40 colours=4 rainbow=42 mono=24 BAD
+# q=7 k=4 l=3 n=56 colours=4 rainbow=0 mono=0 GOOD
+# q=11 k=4 l=3 n=88 colours=4 rainbow=108 mono=120 BAD
+# q=13 k=4 l=3 n=104 colours=4 rainbow=390 mono=168 BAD
+# q=17 k=4 l=3 n=136 colours=4 rainbow=262 mono=160 BAD
+# q=19 k=4 l=3 n=152 colours=4 rainbow=386 mono=360 BAD
+# q=23 k=4 l=3 n=184 colours=4 rainbow=822 mono=352 BAD
+# q=29 k=4 l=3 n=232 colours=4 rainbow=892 mono=840 BAD
+# q=31 k=4 l=3 n=248 colours=4 rainbow=644 mono=720 BAD
+# q=37 k=4 l=3 n=296 colours=4 rainbow=1926 mono=1368 BAD
+# q=41 k=4 l=3 n=328 colours=4 rainbow=2354 mono=1360 BAD
+# q=43 k=4 l=3 n=344 colours=4 rainbow=1796 mono=1848 BAD
+# q=47 k=4 l=3 n=376 colours=4 rainbow=2670 mono=1840 BAD

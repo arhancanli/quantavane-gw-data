@@ -1,0 +1,8 @@
+RUN_START cubes=1 jobs=1 cpu_limit=600 proof=False base=work/P400.cnf pid=59655 utc=2026-11-12T10:33:08Z
+START all nlits=0 lits=- utc=2026-11-12T10:33:08Z
+RUN_START cubes=1 jobs=1 cpu_limit=600 proof=False base=work/P500.cnf pid=59656 utc=2026-11-12T10:33:08Z
+START all nlits=0 lits=- utc=2026-11-12T10:33:08Z
+FINISH all status=TIMEOUT cpu=601.2 wall=827.7 proof_bytes=0 proof_sha256=- cnf_sha256=f75e6e0a3892e6339f29850423ecbc642a44855c1d449c7aa67d972f97d82bb5 checker=none info=- utc=2026-11-12T10:46:55Z
+RUN_END left=0 sat=False utc=2026-11-12T10:46:55Z
+FINISH all status=TIMEOUT cpu=601.4 wall=827.9 proof_bytes=0 proof_sha256=- cnf_sha256=fbc64b244c6075a45654b0c452eabcc3b797d34d1d916161d5e7f579d66ac7be checker=none info=- utc=2026-11-12T10:46:56Z
+RUN_END left=0 sat=False utc=2026-11-12T10:46:56Z

@@ -1,0 +1,36 @@
+k=5 l=3 N=22 cap=64 cmin=11 nodes 1133117122
+r=1 largest t with a visited good exact r-colouring: 2 00
+r=2 largest t with a visited good exact r-colouring: 8 00110011
+r=3 largest t with a visited good exact r-colouring: 14 00100112200100
+r=4 largest t with a visited good exact r-colouring: 15 001001122001003
+r=5 largest t with a visited good exact r-colouring: 16 0010011220010034
+r=6 largest t with a visited good exact r-colouring: 17 00100112200100345
+r=7 largest t with a visited good exact r-colouring: 18 001001122001034356
+r=8 largest t with a visited good exact r-colouring: 19 0010011220030045647
+r=9 largest t with a visited good exact r-colouring: 20 00100112212234356578
+r=10 largest t with a visited good exact r-colouring: 21 001001123133456337389
+r=11 largest t with a visited good exact r-colouring: 22 001002131404456744849a
+r=12 largest t with a visited good exact r-colouring: 22 00120303345633738779ab
+r=13 largest t with a visited good exact r-colouring: 22 0112341455675454899abc
+t=1: r1=1
+t=2: r1=1 r2=1
+t=3: r2=3 r3=1
+t=4: r2=5 r3=6 r4=1
+t=5: r2=7 r3=21 r4=10
+t=6: r2=10 r3=61 r4=59 r5=6
+t=7: r2=8 r3=147 r4=271 r5=70 r6=3
+t=8: r2=3 r3=324 r4=1088 r5=517 r6=58 r7=1
+t=9: r3=601 r4=3854 r5=2724 r6=432 r7=14
+t=10: r3=1174 r4=13154 r5=13377 r6=2977 r7=150 r8=1
+t=11: r3=1965 r4=40785 r5=60327 r6=20524 r7=2132 r8=65
+t=12: r3=3267 r4=124019 r5=258313 r6=123295 r7=19771 r8=1171 r9=21
+t=13: r3=4937 r4=356847 r5=992998 r6=576120 r7=105556 r8=6841 r9=140 r10=1
+t=14: r3=7553 r4=1021019 r5=3758843 r6=2655538 r7=567591 r8=40982 r9=877 r10=4
+t=15: r4=2673597 r5=13513922 r6=11893601 r7=3058887 r8=260211 r9=6326 r10=18
+t=16: r5=48057696 r6=53119636 r7=17653418 r8=2171563 r9=101281 r10=1443 r11=2
+t=17: r6=198693148 r7=73757993 r8=10244235 r9=569448 r10=11427 r11=51
+t=18: r7=304299086 r8=47387597 r9=3073154 r10=79742 r11=614
+t=19: r8=216307319 r9=16178307 r10=520769 r11=6255 r12=16
+t=20: r9=82474166 r10=3042235 r11=44107 r12=158
+t=21: r10=12056718 r11=194062 r12=1016
+t=22: r11=865905 r12=5348 r13=2

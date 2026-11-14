@@ -1,0 +1,22 @@
+k=4 l=4 N=17 cap=4 cmin=1 nodes 27437911
+r=1 largest t with a visited good exact r-colouring: 3 000
+r=2 largest t with a visited good exact r-colouring: 17 00010010101101000
+r=3 largest t with a visited good exact r-colouring: 17 00010010001112000
+r=4 largest t with a visited good exact r-colouring: 17 00010010001112311
+t=1: r1=1
+t=2: r1=1 r2=1
+t=3: r1=1 r2=3 r3=1
+t=4: r2=7 r3=6
+t=5: r2=13 r3=25 r4=3
+t=6: r2=24 r3=87 r4=26
+t=7: r2=39 r3=274 r4=114
+t=8: r2=66 r3=821 r4=476
+t=9: r2=115 r3=2420 r4=1942
+t=10: r2=178 r3=6835 r4=6355
+t=11: r2=274 r3=19098 r4=20611
+t=12: r2=421 r3=53015 r4=66774
+t=13: r2=539 r3=142109 r4=190348
+t=14: r2=672 r3=379855 r4=544521
+t=15: r2=882 r3=1018921 r4=1558165
+t=16: r2=872 r3=2608033 r4=3921612
+t=17: r2=925 r3=6749903 r4=10140527

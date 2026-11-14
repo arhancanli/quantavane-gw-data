@@ -1,0 +1,7 @@
+RUN_START cubes=12 jobs=2 cpu_limit=300 proof=False base=work/P329.cnf pid=79811 utc=2026-11-12T10:37:16Z
+START all_33211322 nlits=8 lits=648,652,655,658,662,668,671,675 utc=2026-11-12T10:37:16Z
+START all_11103020 nlits=8 lits=646,650,654,657,664,665,671,673 utc=2026-11-12T10:37:16Z
+FINISH all_33211322 status=TIMEOUT cpu=300.4 wall=422.9 proof_bytes=0 proof_sha256=- cnf_sha256=5a91b5398d756587dfdfa984cbbcc01f956fcc312b9ec4ac984ad9019acb74a8 checker=none info=- utc=2026-11-12T10:44:19Z
+START all_02121122 nlits=8 lits=645,651,654,659,662,666,671,675 utc=2026-11-12T10:44:19Z
+FINISH all_11103020 status=TIMEOUT cpu=300.4 wall=424.9 proof_bytes=0 proof_sha256=- cnf_sha256=fbe24a7ba9fc7b1544e7e213ab71414c3f0b17760e7f4de8314c633dc7623c17 checker=none info=- utc=2026-11-12T10:44:21Z
+START all_12132200 nlits=8 lits=646,651,654,660,663,667,669,673 utc=2026-11-12T10:44:21Z
