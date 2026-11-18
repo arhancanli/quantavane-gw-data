@@ -116,6 +116,22 @@ Anthropic) working for Quantavane under Arhan Canli's direction. Programs descri
 code but were written with the same AI system. No mathematician outside Quantavane has reviewed this repository;
 the colourings and the proofs can be checked by anyone with the programs here or with their own.
 
+## How to cite
+
+If you use these programs, formulas, proofs or colourings, please cite them as below.
+
+```bibtex
+@misc{quantavane-gw-data,
+  author       = {Canli, Arhan},
+  title        = {Programs, formulas, proofs and colourings for ``Power-residue colourings and exact Gallai-van der Waerden numbers''},
+  year         = {2026},
+  howpublished = {\url{https://github.com/arhancanli/quantavane-gw-data}},
+  note         = {Quantavane; CC BY 4.0 for the data and text, MIT licence for the code}
+}
+```
+
+[CITATION.cff](CITATION.cff) gives the same reference for GitHub's "Cite this repository" button.
+
 ## Licence
 
 The formulas, the proofs, the colourings, the logs and the text are under CC BY 4.0 (`LICENSE`); the code is under
